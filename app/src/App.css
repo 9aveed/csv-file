@@ -1,0 +1,43 @@
+ .form_continer {  
+text-align: center;
+display: flex;
+min-height: 100vh;
+align-items: center;
+justify-content: center;
+background-color: aliceblue;
+background-image: url("a.jpg");
+
+
+}
+.app {
+border-width: -10px;
+border-color: black;
+border-style: solid;
+border-radius: 10px;
+background-color: #504f558e;
+background: url(cloud.jpeg);
+width: 450px;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.text {
+margin:8px 0;
+margin-left: 10px;
+width: 50%;
+border-radius: 3px;
+height: 25px;
+font-weight: bold;
+}
+.button{
+background-color: black;
+color: wheat;
+padding: 10px 60px;
+border-radius: 5px;
+margin: 10px 0px;
+cursor: pointer;
+
+}
